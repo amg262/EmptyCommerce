@@ -7,8 +7,8 @@ artifacts/
 *.lock.json
 .vscode/
 .vs/
-.nuget/
-packages/
+#.nuget/
+#packages/
 bin/
 obj/
 
