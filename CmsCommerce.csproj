@@ -20,4 +20,8 @@
   <ItemGroup>
     <EmbeddedResource Include="Resources\Translations\**\*" />
   </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\StandardPage\Index.cshtml" />
+  </ItemGroup>
 </Project>

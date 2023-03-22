@@ -1,5 +1,4 @@
-﻿using EPiServer.Reference.Commerce.Site.Features.Shared.Pages;
-using EPiServer.Web.Mvc;
+﻿using EPiServer.Web.Mvc;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CmsCommerce
