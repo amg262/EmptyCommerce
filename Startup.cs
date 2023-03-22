@@ -5,7 +5,7 @@ using EPiServer.ServiceLocation;
 using EPiServer.Web.Routing;
 using Mediachase.Commerce.Anonymous;
 
-namespace CmsCommerce;
+namespace EmptyCommerce;
 
 public class Startup
 {

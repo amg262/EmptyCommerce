@@ -1,4 +1,4 @@
-namespace CmsCommerce;
+namespace EmptyCommerce;
 
 public class Program
 {

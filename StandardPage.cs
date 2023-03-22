@@ -3,7 +3,7 @@ using EPiServer.DataAbstraction;
 using EPiServer.DataAnnotations;
 using System.ComponentModel.DataAnnotations;
         
-namespace CmsCommerce
+namespace EmptyCommerce
 {
     [ContentType(
         DisplayName = "Standard page", 
