@@ -2,7 +2,7 @@
 using EPiServer.Commerce.Routing;
 using EPiServer.Framework.Initialization;
 
-namespace CmsCommerce.Infrastructure;
+namespace EmptyCommerce.Infrastructure;
 
 [InitializableModule]
 [ModuleDependency(typeof(EPiServer.Commerce.Initialization.InitializationModule))]

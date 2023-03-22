@@ -1,7 +1,7 @@
 ﻿using EPiServer.Web.Mvc;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CmsCommerce
+namespace EmptyCommerce
 {
     public class StandardPageController : PageController<StandardPage>
     {
