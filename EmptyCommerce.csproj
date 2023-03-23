@@ -23,5 +23,6 @@
 
   <ItemGroup>
     <_ContentIncludedByDefault Remove="Pages\StandardPage\Index.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\EmptyPage\Index.cshtml" />
   </ItemGroup>
 </Project>
